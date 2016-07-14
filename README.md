@@ -1,1 +1,3 @@
-# branch_practice
+# branch测试专用
+本仓库是为了练习git 分支专门建立的
+$_$
